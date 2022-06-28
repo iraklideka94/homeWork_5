@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">homeWork_5</string>
+    <string name="scroll">scroll</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="next">NEXT</string>
+    <string name="username">Username</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_in">Log In</string>
+    <string name="background_image">background image</string>
+    <string name="logo_image">logo Image</string>
+    <string name="social_comment">social comment</string>
+    <string name="back_arrow_icon">back arrow icon</string>
+</resources>
